@@ -1,11 +1,7 @@
-[ 
-	{"section":"intro"},
-	{"section":"install_rvm"},
-	{"section":"info"},
+[
 	{"section":"install"},
 	{"section":"use"},
 	{"section":"gemsets"},
 	{"section":"actions"},
 	{"section":"workflow"},
-	{"section":"outro"}
 ]
